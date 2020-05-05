@@ -1,0 +1,6 @@
+[]
+    access = read : [ db_connect_user, db_connect_admin, rtm_admin, rtm_power], write : [ db_connect_admin,
+    rtm_admin, rtm_power]
+    export = system
+    owner = airbus_dbconnect
+    version = 1.0
